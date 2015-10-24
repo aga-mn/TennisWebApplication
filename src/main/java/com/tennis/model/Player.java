@@ -99,4 +99,5 @@ public class Player {
         this.gender = gender;
     }
 
+    //testowy commit
 }
